@@ -1,0 +1,13 @@
+{
+  "name": "rec-research-portal",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Full-stack REC Centre for Research portal",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
